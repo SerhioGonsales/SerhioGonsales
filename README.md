@@ -4,14 +4,14 @@
 
 Я занимаюсь **Java** разработкой последние 2 года. Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий... и не только.
 
-Благодарю за внимание и хорошего дня.
+Благодарю за внимание и хорошего дня!
 
 ---
 
 **Всегда на связи 👇👇👇**
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-URL)
-  [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Serhio_Gonsales)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Serhio_Gonsales)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79165010199)
 
   ---
 
@@ -25,13 +25,14 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![JUnit](https://img.shields.io/badge/junit-%25A162.svg?style=for-the-badge&color=red&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/mockito-20B2AA?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache FreeMarker](https://img.shields.io/badge/freemarker-%326CAC.svg?style=for-the-badge&color=blue&logo=apachefreemarker&logoColor=white)
 
 ---
 
-**👨‍💻 проекты**
+### 👨‍💻 проекты
 
 **[Mailer - web-приложение для рассылки](https://github.com/SerhioGonsales/Mailing_web_app)**
 
@@ -52,4 +53,9 @@
 
 Это веб-сайт для создания и управления контентом в формате клона Twitter. Загружайте картинки, пишите посты, добавляйте и ищите по тэгам. Есть функционал подписок. 
 
+---
 
+### 📋 тестовые задания
+
+- [Flight filter - система фильтрации авиаперелётов](https://github.com/SerhioGonsales/Flight_filter_app)
+- [Socks storage - приложение для автоматизации учёта носков на складе](https://github.com/SerhioGonsales/Socks-storage-app)
