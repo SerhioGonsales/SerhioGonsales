@@ -6,6 +6,8 @@
 
 Благодарю за внимание и хорошего дня!
 
+[![codewars](https://www.codewars.com/users/Serhio%20Gonsales/badges/micro)](https://www.codewars.com/users/Serhio%20Gonsales)
+
 ---
 
 **Всегда на связи 👇👇👇**
