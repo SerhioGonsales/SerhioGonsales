@@ -13,7 +13,7 @@
 **Всегда на связи 👇👇👇**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-lukushin)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Serhio_Gonsales)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sergey_Lukushin)
 
   ---
 
