@@ -1,6 +1,7 @@
-# Hello, everyone! 👋
+<!-- Header -->
+# Hello, everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 45px> <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JycDZucmhvY3p0dDVpc3gzY2N2cDVoYjFqejkybW42dXVqNWc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="410"/>
 
-Меня зовут **Сергей**. 
+Меня зовут **Сергей**  
 
 Я занимаюсь **Java** разработкой последние 3 года. Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий... и не только.
 
@@ -15,7 +16,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-lukushin)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sergey_Lukushin)
 
-  ---
+---
 
 **🛠 стек**
 
