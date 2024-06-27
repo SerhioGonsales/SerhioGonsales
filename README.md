@@ -53,7 +53,7 @@
 
 ---
 
-**[Simple web-site - простой клон Twetter](https://github.com/SerhioGonsales/Simple_web_site)**
+**[Simple web-site - простой клон Twitter](https://github.com/SerhioGonsales/Simple_web_site)**
 
 Это веб-сайт для создания и управления контентом в формате клона Twitter. Загружайте картинки, пишите посты, добавляйте и ищите по тэгам. Есть функционал подписок. 
 
