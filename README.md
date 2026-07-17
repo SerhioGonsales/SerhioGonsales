@@ -1,4 +1,4 @@
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JycDZucmhvY3p0dDVpc3gzY2N2cDVoYjFqejkybW42dXVqNWc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="450"/>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JycDZucmhvY3p0dDVpc3gzY2N2cDVoYjFqejkybW42dXVqNWc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="440"/>
 
 ### Stack
 
@@ -14,8 +14,6 @@
 `Linux`
 
 ---
-
-## Featured Project
 
 ### 🖥 DeepSeek Balance Applet
 
